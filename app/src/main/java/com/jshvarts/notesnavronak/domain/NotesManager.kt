@@ -1,9 +1,5 @@
 package com.jshvarts.notesnavigation.domain
 
-/**
- * Quick and dirty implementation. In production, you'd want to use something like a repository pattern with
- * your data layer implementation injected into domain layer.
- */
 object NotesManager {
     private val notes = mutableMapOf<Int, String>()
 
