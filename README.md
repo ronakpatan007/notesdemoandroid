@@ -1,7 +1,5 @@
 # Android Navigation Architecture Component Demo
 
-My article covering this repo: [Navigation Architecture Component for the Rest of Us](https://proandroiddev.com/navigation-architecture-component-for-the-rest-of-us-faafa890e5)
-
 This project contains a comprehensive sample of using the [Navigation Architecture Component](https://developer.android.com/topic/libraries/architecture/navigation/) by way of a simple Notes app--no domain knowledge needed to understand the purpose of this app.
 
 ## Functionality included
@@ -18,7 +16,7 @@ This project contains a comprehensive sample of using the [Navigation Architectu
 MVVM (Model-View-ViewModel) is used to make the architecture cleaner, more readable and maintainable. Notes are stored and managed in memory within the domain layer (this sample is about Navigation and not full-blown [Clean Architecture](https://github.com/jshvarts/ConductorMVP) after all).   
 
 ## Bonus
-[This PR](https://github.com/jshvarts/NotesNavigation/commit/0744acff8d33708b72c852b71a8831a395ab22e2) contains steps needed to migrate from support library to AndroidX namespace. For more details, see [AndroidX Refactoring docs](https://developer.android.com/topic/libraries/support-library/refactor)
+This Project contains steps needed to migrate from support library to AndroidX namespace. For more details, see [AndroidX Refactoring docs](https://developer.android.com/topic/libraries/support-library/refactor)
 
 ## Screenshots
 
@@ -28,7 +26,7 @@ MVVM (Model-View-ViewModel) is used to make the architecture cleaner, more reada
 
 ## License
 
-    Copyright 2018 James Shvarts
+    Copyright 2018 Ronak Thakkar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
