@@ -13,7 +13,7 @@ This project contains a comprehensive sample of using the [Navigation Architectu
 8) Configuring type-safe arguments between navigation components (in this case, Fragments)
 
 ## Design Pattern
-MVVM (Model-View-ViewModel) is used to make the architecture cleaner, more readable and maintainable. Notes are stored and managed in memory within the domain layer (this sample is about Navigation and not full-blown [Clean Architecture](https://github.com/jshvarts/ConductorMVP) after all).   
+MVVM (Model-View-ViewModel) is used to make the architecture cleaner, more readable and maintainable.(https://github.com/jshvarts/ConductorMVP) after all).   
 
 ## Bonus
 This Project contains steps needed to migrate from support library to AndroidX namespace. For more details, see [AndroidX Refactoring docs](https://developer.android.com/topic/libraries/support-library/refactor)
@@ -26,7 +26,7 @@ This Project contains steps needed to migrate from support library to AndroidX n
 
 ## License
 
-    Copyright 2018 Ronak Thakkar
+    Copyright 2019 Ronak Thakkar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
